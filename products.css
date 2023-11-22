@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.VR-Website-Products-card-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+}
+
+.product-card {
+    width: 100%;
+    height: 600px;
+}
+
+.VR-Website-Products-card-heading {
+    color: #fff;
+}
+
+.VR-Website-Products-card-description {
+    color: #fff;
+}
+
+.VR-Website-Products-card-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+}
+
+.custom-btn {
+    height: 40px;
+    width: 120px;
+    background-color: transparent;
+    border-color: #fff;
+    color: #fff;
+    border-radius: 5px;
+}
+
+
+
+
+
+.vr-kit-section {
+    background-color: #f9fbfe;
+}
+
+.vr-kit-section-heading {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.vr-section-card-image {
+    height: 250px;
+    width: 200px;
+}
+
+.vr-kit-card-heading {
+    font-size: 20px;
+    color: #323f4b;
+}
