@@ -63,3 +63,60 @@
 .vr-image {
     width: 100%;
 }
+
+
+
+.VR-Website-Footer-Section-background-container {
+    background-color: #19232d;
+}
+
+.image-logo {
+    height: 40px;
+    width: 60px;
+
+}
+
+.VR-Website-Footer-Section-icon {
+   
+    background-color: #202b36;
+
+    border-radius: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+.icon {
+    font-size: 25px;
+    color: #5a7184;
+}
+
+.VR-Website-Footer-Section-text {
+    color: #5a7184;
+    font-weight: 500;
+}
+
+.VR-Website-Footer-Section-text-heading {
+    color: #5a7184;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.VR-Website-Footer-Section-list {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.hr-line {
+    background-color: #959ead;
+}
+
+.VR-Website-Footer-Section-copyright {
+    color:
+        #959ead;
+    font-weight: 500;
+}
+
+.copyright-button {
+    color: #fff;
+    margin-right: 10px;
+}
